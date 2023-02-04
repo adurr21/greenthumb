@@ -1,30 +1,46 @@
 <!DOCTYPE html>
+<html>
 <head>
-    <title>Green Thumb</title>
-    <meta name="Author" content="
-    Krishna Mehta,
-    Austin Durr">
-    <meta name="Description" content="">
-    <link rel="stylesheet" type="text/css" href="/styles/myplant/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles/myplant/style.css"> 
 </head>
 <body>
-    <div id="header">
-        <h1>Green Thumb</h1>
-        <h2>Plant Care Made Easy</h2>
+<h2 class="align-center">Green Thumb</h2>
+<p class="align-center">My plants</p>
+
+<div class="row">
+  <div class="column">
+    <div class="card" id="watered">
+        <img src="static/pictures/tomato.jpg" alt="Tomato" style="width:100%">
+      <h3>Tomato</h3>
+      <p>Watered</p>
     </div>
-    <div id="nav">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="myplant.html">My Plant</a></li>
-            <li><a href="about.html">About</a></li>
-        </ul>
+  </div>
+
+  <div class="column">
+    <div class="card" id="not-watered">
+        <img src="static/pictures/lettuce.jpeg" alt="Lettuce" style="width:100%">
+      <h3>Lettuce</h3>
+      <p>Not Watered</p>
     </div>
-    <div id="content">
-        <h1>My Plant</h1>
-        <p>Here is a picture of my plant.</p>
-        <img src="plant.jpg" alt="My Plant">
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
-    <div id="footer">
-        <p>Green Thumb &copy; 2017</p>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+      <p>Some text</p>
     </div>
+  </div>
+</div>
+
 </body>
+</html>
