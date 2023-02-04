@@ -1,0 +1,23 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "Hackathon project for 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adurr21/hackathon.git"
+  },
+  "keywords": [
+    "hackathon",
+    "project"
+  ],
+  "author": "Austin Durr, Krishna Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adurr21/hackathon/issues"
+  },
+  "homepage": "https://github.com/adurr21/hackathon#readme"
+}
