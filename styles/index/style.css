@@ -2,6 +2,7 @@ body{
     width: 100%;
     height: auto;
     margin:0;
+    background: #fdfff0;
 }
 
 
@@ -27,20 +28,14 @@ body{
 
 #mid {
     width: 100%;
-    height: 200%;
-    margin-top: 15%;
-}
-
-#mid h1{
+    height: auto;
+    margin: 0 auto;
     text-align: center;
 }
 
-#mid h2 {
-    text-align: center;
-}
 
-#mid p{
-    text-align: center;
+.calender{
+    align-content: center;
 }
 
 #footer{
