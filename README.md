@@ -1,4 +1,4 @@
-# Hackathon 2023
+# UGAHacks8 2023
 
 Contributors:
 -Austin Durr
