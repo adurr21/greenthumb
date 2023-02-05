@@ -1,4 +1,7 @@
 # Hackathon 2023
+Authors:
+-Austin Durr
+-Krishna Mehta
 
 Green Thumb
 
