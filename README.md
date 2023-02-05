@@ -1,5 +1,6 @@
 # Hackathon 2023
-Authors:
+
+Contributors:
 -Austin Durr
 -Krishna Mehta
 
